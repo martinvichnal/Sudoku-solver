@@ -18,7 +18,7 @@ namespace SudokuTester
 
 
 
-        // This now is basecally useless ... NOICE ... :)
+        // This now is basically useless ... NOICE ... :)
         // Main Calculation for Getting the Serial number of a selected square.
         public static int GetNumber(int x, int y)
         {
