@@ -1,0 +1,16 @@
+E:\OneDrive\Projects\SudokuTester\bin\Debug\net5.0\SudokuTester.exe
+E:\OneDrive\Projects\SudokuTester\bin\Debug\net5.0\SudokuTester.deps.json
+E:\OneDrive\Projects\SudokuTester\bin\Debug\net5.0\SudokuTester.runtimeconfig.json
+E:\OneDrive\Projects\SudokuTester\bin\Debug\net5.0\SudokuTester.runtimeconfig.dev.json
+E:\OneDrive\Projects\SudokuTester\bin\Debug\net5.0\SudokuTester.dll
+E:\OneDrive\Projects\SudokuTester\bin\Debug\net5.0\ref\SudokuTester.dll
+E:\OneDrive\Projects\SudokuTester\bin\Debug\net5.0\SudokuTester.pdb
+E:\OneDrive\Projects\SudokuTester\obj\Debug\net5.0\SudokuTester.csprojAssemblyReference.cache
+E:\OneDrive\Projects\SudokuTester\obj\Debug\net5.0\SudokuTester.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive\Projects\SudokuTester\obj\Debug\net5.0\SudokuTester.AssemblyInfoInputs.cache
+E:\OneDrive\Projects\SudokuTester\obj\Debug\net5.0\SudokuTester.AssemblyInfo.cs
+E:\OneDrive\Projects\SudokuTester\obj\Debug\net5.0\SudokuTester.csproj.CoreCompileInputs.cache
+E:\OneDrive\Projects\SudokuTester\obj\Debug\net5.0\SudokuTester.dll
+E:\OneDrive\Projects\SudokuTester\obj\Debug\net5.0\ref\SudokuTester.dll
+E:\OneDrive\Projects\SudokuTester\obj\Debug\net5.0\SudokuTester.pdb
+E:\OneDrive\Projects\SudokuTester\obj\Debug\net5.0\SudokuTester.genruntimeconfig.cache
