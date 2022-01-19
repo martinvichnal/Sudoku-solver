@@ -14,3 +14,19 @@ E:\OneDrive\Projects\SudokuTester\obj\Debug\net5.0\SudokuTester.dll
 E:\OneDrive\Projects\SudokuTester\obj\Debug\net5.0\ref\SudokuTester.dll
 E:\OneDrive\Projects\SudokuTester\obj\Debug\net5.0\SudokuTester.pdb
 E:\OneDrive\Projects\SudokuTester\obj\Debug\net5.0\SudokuTester.genruntimeconfig.cache
+C:\Users\marti\OneDrive\Projects\Programming\C#, C++\Sudoku\SudokuTester\bin\Debug\net5.0\SudokuTester.exe
+C:\Users\marti\OneDrive\Projects\Programming\C#, C++\Sudoku\SudokuTester\bin\Debug\net5.0\SudokuTester.deps.json
+C:\Users\marti\OneDrive\Projects\Programming\C#, C++\Sudoku\SudokuTester\bin\Debug\net5.0\SudokuTester.runtimeconfig.json
+C:\Users\marti\OneDrive\Projects\Programming\C#, C++\Sudoku\SudokuTester\bin\Debug\net5.0\SudokuTester.runtimeconfig.dev.json
+C:\Users\marti\OneDrive\Projects\Programming\C#, C++\Sudoku\SudokuTester\bin\Debug\net5.0\SudokuTester.dll
+C:\Users\marti\OneDrive\Projects\Programming\C#, C++\Sudoku\SudokuTester\bin\Debug\net5.0\ref\SudokuTester.dll
+C:\Users\marti\OneDrive\Projects\Programming\C#, C++\Sudoku\SudokuTester\bin\Debug\net5.0\SudokuTester.pdb
+C:\Users\marti\OneDrive\Projects\Programming\C#, C++\Sudoku\SudokuTester\obj\Debug\net5.0\SudokuTester.csproj.AssemblyReference.cache
+C:\Users\marti\OneDrive\Projects\Programming\C#, C++\Sudoku\SudokuTester\obj\Debug\net5.0\SudokuTester.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\OneDrive\Projects\Programming\C#, C++\Sudoku\SudokuTester\obj\Debug\net5.0\SudokuTester.AssemblyInfoInputs.cache
+C:\Users\marti\OneDrive\Projects\Programming\C#, C++\Sudoku\SudokuTester\obj\Debug\net5.0\SudokuTester.AssemblyInfo.cs
+C:\Users\marti\OneDrive\Projects\Programming\C#, C++\Sudoku\SudokuTester\obj\Debug\net5.0\SudokuTester.csproj.CoreCompileInputs.cache
+C:\Users\marti\OneDrive\Projects\Programming\C#, C++\Sudoku\SudokuTester\obj\Debug\net5.0\SudokuTester.dll
+C:\Users\marti\OneDrive\Projects\Programming\C#, C++\Sudoku\SudokuTester\obj\Debug\net5.0\ref\SudokuTester.dll
+C:\Users\marti\OneDrive\Projects\Programming\C#, C++\Sudoku\SudokuTester\obj\Debug\net5.0\SudokuTester.pdb
+C:\Users\marti\OneDrive\Projects\Programming\C#, C++\Sudoku\SudokuTester\obj\Debug\net5.0\SudokuTester.genruntimeconfig.cache

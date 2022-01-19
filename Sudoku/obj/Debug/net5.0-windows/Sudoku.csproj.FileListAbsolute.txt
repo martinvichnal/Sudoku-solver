@@ -16,3 +16,21 @@ E:\OneDrive\Projects\Sudoku\obj\Debug\net5.0-windows\Sudoku.dll
 E:\OneDrive\Projects\Sudoku\obj\Debug\net5.0-windows\ref\Sudoku.dll
 E:\OneDrive\Projects\Sudoku\obj\Debug\net5.0-windows\Sudoku.pdb
 E:\OneDrive\Projects\Sudoku\obj\Debug\net5.0-windows\Sudoku.genruntimeconfig.cache
+C:\Users\marti\OneDrive\Projects\Programming\C#, C++\Sudoku\Sudoku\bin\Debug\net5.0-windows\Sudoku.exe
+C:\Users\marti\OneDrive\Projects\Programming\C#, C++\Sudoku\Sudoku\bin\Debug\net5.0-windows\Sudoku.deps.json
+C:\Users\marti\OneDrive\Projects\Programming\C#, C++\Sudoku\Sudoku\bin\Debug\net5.0-windows\Sudoku.runtimeconfig.json
+C:\Users\marti\OneDrive\Projects\Programming\C#, C++\Sudoku\Sudoku\bin\Debug\net5.0-windows\Sudoku.runtimeconfig.dev.json
+C:\Users\marti\OneDrive\Projects\Programming\C#, C++\Sudoku\Sudoku\bin\Debug\net5.0-windows\Sudoku.dll
+C:\Users\marti\OneDrive\Projects\Programming\C#, C++\Sudoku\Sudoku\bin\Debug\net5.0-windows\ref\Sudoku.dll
+C:\Users\marti\OneDrive\Projects\Programming\C#, C++\Sudoku\Sudoku\bin\Debug\net5.0-windows\Sudoku.pdb
+C:\Users\marti\OneDrive\Projects\Programming\C#, C++\Sudoku\Sudoku\obj\Debug\net5.0-windows\Sudoku.csproj.AssemblyReference.cache
+C:\Users\marti\OneDrive\Projects\Programming\C#, C++\Sudoku\Sudoku\obj\Debug\net5.0-windows\Sudoku.Form1.resources
+C:\Users\marti\OneDrive\Projects\Programming\C#, C++\Sudoku\Sudoku\obj\Debug\net5.0-windows\Sudoku.csproj.GenerateResource.cache
+C:\Users\marti\OneDrive\Projects\Programming\C#, C++\Sudoku\Sudoku\obj\Debug\net5.0-windows\Sudoku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\OneDrive\Projects\Programming\C#, C++\Sudoku\Sudoku\obj\Debug\net5.0-windows\Sudoku.AssemblyInfoInputs.cache
+C:\Users\marti\OneDrive\Projects\Programming\C#, C++\Sudoku\Sudoku\obj\Debug\net5.0-windows\Sudoku.AssemblyInfo.cs
+C:\Users\marti\OneDrive\Projects\Programming\C#, C++\Sudoku\Sudoku\obj\Debug\net5.0-windows\Sudoku.csproj.CoreCompileInputs.cache
+C:\Users\marti\OneDrive\Projects\Programming\C#, C++\Sudoku\Sudoku\obj\Debug\net5.0-windows\Sudoku.dll
+C:\Users\marti\OneDrive\Projects\Programming\C#, C++\Sudoku\Sudoku\obj\Debug\net5.0-windows\ref\Sudoku.dll
+C:\Users\marti\OneDrive\Projects\Programming\C#, C++\Sudoku\Sudoku\obj\Debug\net5.0-windows\Sudoku.pdb
+C:\Users\marti\OneDrive\Projects\Programming\C#, C++\Sudoku\Sudoku\obj\Debug\net5.0-windows\Sudoku.genruntimeconfig.cache

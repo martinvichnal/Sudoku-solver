@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "wRkdOyWmw4pVKPGMOLpCMjCf+iLHhfELo9KVZdoNYWrvS9vM2OPfvcGnCtsBRDShqP9PW6OH7s4QDtIWXFGHhg==",
+  "dgSpecHash": "fKLf3cd+ulpnHHHaMtdoW8l3gmMuHiYSo2lif6ft0mUusSU68iGiyXO8miy4Ue5eNgRP8huIVOXSqcm2uM3OqQ==",
   "success": true,
-  "projectFilePath": "E:\\OneDrive\\Projects\\SudokuTester\\SudokuTester.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\marti\\OneDrive\\Projects\\Programming\\C#, C++\\Sudoku\\SudokuTester\\SudokuTester.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marti\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512",
+    "C:\\Users\\marti\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\marti\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\marti\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

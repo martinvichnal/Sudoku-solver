@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f5a1ef20-3cb6-4fbc-a2e4-96d632b3e95b": {
+      "ProjectGuid": "f5a1ef20-3cb6-4fbc-a2e4-96d632b3e95b",
+      "DisplayName": "SudokuTester",
+      "ColorIndex": 0
+    },
+    "e4393328-06a9-4fae-b1a4-58f546a2329d": {
+      "ProjectGuid": "e4393328-06a9-4fae-b1a4-58f546a2329d",
+      "DisplayName": "Sudoku",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
