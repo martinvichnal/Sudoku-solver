@@ -1,2 +1,2 @@
 # Sudoku
- A program taht solves Sudoku 
+ A program that solves Sudoku 
